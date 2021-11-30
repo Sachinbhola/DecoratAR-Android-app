@@ -1,0 +1,95 @@
+{
+  animations: [
+    {
+      clips: [
+        {
+          name: 'Character|Boxing',
+        },
+        {
+          name: 'Character|Idle',
+        },
+        {
+          name: 'Character|Kick',
+        },
+        {
+          name: 'Character|T-Pose',
+        },
+      ],
+      path: 'sampledata/model_fight.fbx',
+    },
+  ],
+  materials: [
+    {
+      name: 'kachujin_MAT',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'Kachujin_diffuse',
+        },
+        {
+          normalMap: 'Kachujin_normal',
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'sampledata/model_fight.fbx',
+    name: 'model_fight',
+    recenter: 'root',
+  },
+  samplers: [
+    {
+      file: 'sampledata/model_fight.fbm/Kachujin_diffuse.png',
+      name: 'Kachujin_diffuse',
+      pipeline_name: 'model_fight.fbm/Kachujin_diffuse.png',
+    },
+    {
+      file: 'sampledata/model_fight.fbm/Kachujin_normal.png',
+      name: 'Kachujin_normal',
+      params: {
+        usage_type: 'Normal',
+      },
+      pipeline_name: 'model_fight.fbm/Kachujin_normal.png',
+    },
+    {
+      file: 'sampledata/model_fight.fbm/Kachujin_specular.png',
+      name: 'Kachujin_specular',
+      pipeline_name: 'model_fight.fbm/Kachujin_specular.png',
+    },
+  ],
+  version: '0.54:2',
+}
