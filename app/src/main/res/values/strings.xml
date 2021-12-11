@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DecoratAR</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="best_furniture_for_your_house">Best Furniture For Your house</string>
 </resources>
