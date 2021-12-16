@@ -16,29 +16,20 @@
 
  ## <div align ="center" >Application Working</div> 
 
-<div align ="center"><img align="center" width="300" src="https://github.com/Sachinbhola/resources/blob/main/resources/20210516_001238.gif"/></div>
+<div align ="center"><img align="center" width="300" src="https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_vid.gif"/></div>
 <hr>
 
 ## Demo
 
 **Screenshots**
 
-| ![](https://github.com/Sachinbhola/resources/blob/main/resources/social_sign.jpg) |![](https://github.com/Sachinbhola/resources/blob/main/resources/social_media_main.jpg) | ![](https://github.com/Sachinbhola/resources/blob/main/resources/social_media_addpost.jpg) | 
+| ![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_home.jpeg) |![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR.jpeg) | ![](https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_1.jpeg) | 
 | :-------------:  | :-------------:  | :-------------:  |
-|    Login     |   Posts     |   Adding posts     |
-
-## Features
-
-- Modern UI
-- Realtime update and response by Firebase firestore
-- Connect and chat streamlessly with other users
-- Dynamic UI for Dark mode and Light mode
-- Send new Text , Emotes etc
-- like your favourite post
-- Dynamic list implementation by Recycler View 
-- More exciting features can be added
+|    Home Page - Select Furniture     |   Select Flat Surface     |   View Furniture     |
 
 <hr>
   
 ##### Download APK
-<pre><a href="https://drive.google.com/drive/folders/1hX6Ujgj2-E9XP3guAXRsJWhuWXVBH5aL?usp=sharing">APK LINK</a></pre>
+For smooth usage download latest versiomn of Arcore from playstore
+<pre><a href="https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en_IN&gl=US">ARCore LINK</a></pre>
+<pre><a href="https://drive.google.com/file/d/1-ti-FkjUD-KmRAoHXQ6p9RYoxGEeKXz5/view?usp=sharing">DecoratAR APK LINK</a></pre>
