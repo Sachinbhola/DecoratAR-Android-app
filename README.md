@@ -14,7 +14,7 @@
  ![GitHub repo size](https://img.shields.io/github/repo-size/Sachinbhola/DecoratAR-Android-app)
 <hr>
 
- ## <div align ="center" >Application Working</div> 
+ ## <div align ="center" >Application Preview</div> 
 
 <div align ="center"><img align="center" width="300" src="https://github.com/Sachinbhola/App-Templates/blob/master/Resources/DecoratAR_vid.gif"/></div>
 <hr>
