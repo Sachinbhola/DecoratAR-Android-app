@@ -19,6 +19,8 @@ import com.google.ar.sceneform.rendering.ModelRenderable;
 import com.google.ar.sceneform.ux.ArFragment;
 import com.google.ar.sceneform.ux.TransformableNode;
 
+// Part of Previous Build Using Sceneform Library (Now Deprecated)
+
 public class MainActivity extends AppCompatActivity {
 
     private ArFragment arFragment;
